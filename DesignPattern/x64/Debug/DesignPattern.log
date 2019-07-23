@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  StrategyPattern.cpp
+  ObserverPattern.cpp
+  DecoratorPattern.cpp
+  AdapterPattern.cpp
+  Generating Code...
+d:\2018_projects\prof_src\designpattern\decoratorpattern.cpp(116): warning C4172: returning address of local variable or temporary: arr
+  DesignPattern.vcxproj -> D:\2018_Projects\Prof_Src\x64\Debug\DesignPattern.exe

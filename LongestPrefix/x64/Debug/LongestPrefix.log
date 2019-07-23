@@ -1,0 +1,3 @@
+﻿  LongestPrefix.cpp
+d:\2018_projects\prof_src\longestprefix\longestprefix.cpp(109): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  LongestPrefix.vcxproj -> D:\2018_Projects\Prof_Src\x64\Debug\LongestPrefix.exe

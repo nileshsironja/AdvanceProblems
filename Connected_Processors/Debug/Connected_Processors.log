@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Connected_Processors.cpp
+d:\2018_projects\prof_src\connected_processors\connected_processors.cpp(186): warning C4717: 'recur': recursive on all control paths, function will cause runtime stack overflow
+  Connected_Processors.vcxproj -> D:\2018_Projects\Prof_Src\Debug\Connected_Processors.exe

@@ -1,0 +1,5 @@
+﻿  DBMS.cpp
+d:\2018_projects\prof_src\dbms\dbms.cpp(65): warning C4101: 'j': unreferenced local variable
+d:\2018_projects\prof_src\dbms\dbms.cpp(329): warning C4172: returning address of local variable or temporary: retstr
+d:\2018_projects\prof_src\dbms\dbms.cpp(205): warning C4172: returning address of local variable or temporary: retstr
+  DBMS.vcxproj -> D:\2018_Projects\Prof_Src\Debug\DBMS.exe
