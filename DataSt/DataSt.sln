@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedList", "DataSt\DataSt.vcxproj", "{E3B15A55-3B55-4C04-8D79-80506A2DC360}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL_CPP", "STL_CPP\STL_CPP.vcxproj", "{281A9718-8349-4C45-AD83-3059D2E6993E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Templates", "Templates\Templates.vcxproj", "{A85950ED-EBD0-41CD-8E72-106B7CCCF1D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3B15A55-3B55-4C04-8D79-80506A2DC360}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E3B15A55-3B55-4C04-8D79-80506A2DC360}.Debug|Win32.Build.0 = Debug|Win32
+		{E3B15A55-3B55-4C04-8D79-80506A2DC360}.Release|Win32.ActiveCfg = Release|Win32
+		{E3B15A55-3B55-4C04-8D79-80506A2DC360}.Release|Win32.Build.0 = Release|Win32
+		{281A9718-8349-4C45-AD83-3059D2E6993E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{281A9718-8349-4C45-AD83-3059D2E6993E}.Debug|Win32.Build.0 = Debug|Win32
+		{281A9718-8349-4C45-AD83-3059D2E6993E}.Release|Win32.ActiveCfg = Release|Win32
+		{281A9718-8349-4C45-AD83-3059D2E6993E}.Release|Win32.Build.0 = Release|Win32
+		{A85950ED-EBD0-41CD-8E72-106B7CCCF1D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A85950ED-EBD0-41CD-8E72-106B7CCCF1D0}.Debug|Win32.Build.0 = Debug|Win32
+		{A85950ED-EBD0-41CD-8E72-106B7CCCF1D0}.Release|Win32.ActiveCfg = Release|Win32
+		{A85950ED-EBD0-41CD-8E72-106B7CCCF1D0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linkedlist.c", "Linkedlist.c\Linkedlist.c.vcxproj", "{CF821704-21CE-4F6F-8074-6AF54C4BE585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF821704-21CE-4F6F-8074-6AF54C4BE585}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF821704-21CE-4F6F-8074-6AF54C4BE585}.Debug|Win32.Build.0 = Debug|Win32
+		{CF821704-21CE-4F6F-8074-6AF54C4BE585}.Release|Win32.ActiveCfg = Release|Win32
+		{CF821704-21CE-4F6F-8074-6AF54C4BE585}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

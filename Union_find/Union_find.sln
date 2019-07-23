@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Union_find", "Union_find\Union_find.vcxproj", "{719732B6-CC8B-445C-9DF9-B4E218054992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{719732B6-CC8B-445C-9DF9-B4E218054992}.Debug|Win32.ActiveCfg = Debug|Win32
+		{719732B6-CC8B-445C-9DF9-B4E218054992}.Debug|Win32.Build.0 = Debug|Win32
+		{719732B6-CC8B-445C-9DF9-B4E218054992}.Release|Win32.ActiveCfg = Release|Win32
+		{719732B6-CC8B-445C-9DF9-B4E218054992}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

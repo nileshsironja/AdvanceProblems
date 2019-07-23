@@ -1,0 +1,18 @@
+﻿Build started 3/25/2016 11:56:25 PM.
+     1>Project "c:\Users\nilesh\documents\visual studio 2010\Projects\ResourceDLL\Researches_1\Researches_1.vcxproj" on node 2 (rebuild target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Researches_1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\Researches_1.res" Researches_1.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Researches_1.dll.embed.manifest.res" Debug\Researches_1_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\nilesh\documents\visual studio 2010\Projects\ResourceDLL\Debug\Researches_1.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Researches_1.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\nilesh\documents\visual studio 2010\Projects\ResourceDLL\Debug\Researches_1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\nilesh\documents\visual studio 2010\Projects\ResourceDLL\Debug\Researches_1.lib" /MACHINE:X86 /DLL Debug\Researches_1.res
+         Debug\Researches_1.dll.embed.manifest.res
+     1>LINK : error LNK2001: unresolved external symbol __DllMainCRTStartup@12
+     1>c:\users\nilesh\documents\visual studio 2010\Projects\ResourceDLL\Debug\Researches_1.dll : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "c:\Users\nilesh\documents\visual studio 2010\Projects\ResourceDLL\Researches_1\Researches_1.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.97
